@@ -1,4 +1,4 @@
-
+ESX = exports["es_extended"]:getSharedObject()
 
 lib.callback.register('krs_spawnselector:GetPlayerLastCoords', function(source)
     local coords
