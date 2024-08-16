@@ -8,7 +8,7 @@
 
 * Add this export into your multicharacter
 
-exports['krs_spawnselector']:OpenSpawnSelector(true)
+* exports['krs_spawnselector']:OpenSpawnSelector(true)
 
 * Link Mantine: https://mantine.dev/
 
